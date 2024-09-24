@@ -64,6 +64,9 @@
 <!-- Date Tags -->
 <meta property="og:updated_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
 
+<!-- Theme colour for mobile (same as sidebar) - TODO: Should probably combine this to one Hugo macro for defaults -->
+<meta name="theme-color" content="{{ with .Site.Params.sidebar_bg_color }}{{ . }}{{ else }}#202020{{ end }}" />
+
 <!-- Sitemap & Alternate Outputs -->
 <link rel="sitemap" type="application/xml" title="Sitemap" href='{{ "sitemap.xml" | absURL }}' />
 {{ range .AlternativeOutputFormats -}}
