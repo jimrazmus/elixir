@@ -10,7 +10,6 @@
 ## Contents
 
 - [Elixir](#elixir)
-    - [DEMO - https://elixir.lukeorth.com/](#demo---httpselixirlukeorthcom)
   - [Contents](#contents)
   - [Features](#features)
     - [Light and dark mode](#light-and-dark-mode)
