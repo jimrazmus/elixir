@@ -1,4 +1,4 @@
-# Elixir (fork of [Elixir](https://github.com/lukeorth/elixir)) - [Demo](https://nunnsy.github.io/elixir-example)
+# Elixir (fork of [Poison](https://github.com/lukeorth/poison)) - [Demo](https://nunnsy.github.io/elixir-example)
 
 > [!NOTE]
 > This fork attempts to simplify components by leveraging CDNs, given my personal usecase required features which imported external dependencies anyway. I've also attempted to remove warnings from Hugo and JavaScript.
