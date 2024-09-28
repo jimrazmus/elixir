@@ -28,6 +28,7 @@
     - [The front page](#the-front-page)
     - [Example config](#example-config)
     - [Custom CSS](#custom-css)
+  - [Known Issues](#known-issues)
   - [Suggestions / Contributions](#suggestions--contributions)
   - [Author](#author)
   - [Ported By](#ported-by)
@@ -407,6 +408,9 @@ You can override any setting in Elixir's static CSS files by adding your own `/a
   font-family: "Monaco", monospace;
 }
 ```
+
+## Known Issues
+1. Jumping to footnotes causes the html/body to be rendered too high.
 
 ## Suggestions / Contributions
 
