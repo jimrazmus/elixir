@@ -411,6 +411,7 @@ You can override any setting in Elixir's static CSS files by adding your own `/a
 
 ## Known Issues
 1. Jumping to footnotes causes the html/body to be rendered too high.
+2. Scroll-spy for Table of Contents isn't accurate
 
 ## Suggestions / Contributions
 
