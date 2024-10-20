@@ -443,3 +443,7 @@ div.highlight pre {
 .current {
     color: var(--text-color);
 }
+
+video {
+    max-width: 100%;
+}
